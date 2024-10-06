@@ -1,0 +1,4 @@
+imageio==2.31.2
+numpy==1.25.2
+opencv_contrib_python==4.10.0.82
+opencv_python==4.10.0.84
